@@ -1,0 +1,6 @@
+print('Enter your first name')
+fname=input()
+print('Enter your last name')
+lname=input()
+print('Your full name is')
+print(fname +' '+ lname)
